@@ -1,0 +1,1 @@
+export const Images = require.context('../assets', true);
